@@ -1,6 +1,7 @@
 import ReactDOM from 'react-dom';
 import './app/layout/styles.css';
 import 'semantic-ui-css/semantic.min.css';
+import 'react-calendar/dist/Calendar.css'
 import reportWebVitals from './reportWebVitals';
 import {store, StoreContext } from './app/stores/store';
 import { RouterProvider } from 'react-router-dom';
